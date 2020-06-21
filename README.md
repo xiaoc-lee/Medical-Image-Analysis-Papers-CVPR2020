@@ -16,3 +16,6 @@ Links：http://arxiv.org/abs/1912.03383v1
 Synthetic Learning: Learn From Distributed Asynchronized Discriminator GAN Without Sharing Medical Image Data  
 Links：https://arxiv.org/abs/2006.00080v2
 
+
+## Reference:
+https://github.com/amusi/CVPR2020-Code
