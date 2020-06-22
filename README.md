@@ -12,7 +12,7 @@ Deep Distance Transform for Tubular Structure Segmentation in CT Scans
 Paper：http://arxiv.org/abs/1912.03383v1  
 DuDoRNet: Learning a Dual-Domain Recurrent Network for Fast MRI Reconstruction with Deep T1 Prior  
 Paper：http://arxiv.org/abs/2001.03799v2  
-Code:https://github.com/bbbbbbzhou/DuDoRNet
+Code:https://github.com/bbbbbbzhou/DuDoRNet  
 LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation  
 Paper：https://arxiv.org/abs/2003.07072v3  
 Organ at Risk Segmentation for Head and Neck Cancer using Stratified Learning and Neural Architecture Search  
@@ -21,6 +21,7 @@ Synthetic Learning: Learn From Distributed Asynchronized Discriminator GAN Witho
 Paper：https://arxiv.org/abs/2006.00080v2  
 
 ...  
+
 Ongoing updates
 
 ## Reference:
