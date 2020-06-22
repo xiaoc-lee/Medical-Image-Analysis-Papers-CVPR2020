@@ -13,9 +13,9 @@ Links：http://arxiv.org/abs/1912.03383v1
 DuDoRNet: Learning a Dual-Domain Recurrent Network for Fast MRI Reconstruction with Deep T1 Prior  
 Links：http://arxiv.org/abs/2001.03799v2  
 LT-Net: Label Transfer by Learning Reversible Voxel-wise Correspondence for One-shot Medical Image Segmentation  
-Links：https://arxiv.org/abs/2003.07072v3
+Links：https://arxiv.org/abs/2003.07072v3  
 Organ at Risk Segmentation for Head and Neck Cancer using Stratified Learning and Neural Architecture Search  
-Links：http://arxiv.org/abs/2004.08426v1
+Links：http://arxiv.org/abs/2004.08426v1  
 Synthetic Learning: Learn From Distributed Asynchronized Discriminator GAN Without Sharing Medical Image Data  
 Links：https://arxiv.org/abs/2006.00080v2  
 
